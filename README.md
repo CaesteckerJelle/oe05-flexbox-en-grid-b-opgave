@@ -68,7 +68,7 @@ Maak de navigatie voor je pagina. Plaats een logo dat de volledige schermgrootte
 Indien je de opdracht exact heb opgevolgd, krijg je nu problemen met het plaatsen van de afbeelding binnen het grid. Los dit op.
 Centreer de afbeelding en de p-tag. Verander de inhoud van de p-tag naar “Zombie News Inc.”.
 **Denk eraan dat je ontwikkelde voor verschillende schermen!**
-Maak vervolgens een nav-element met daarin een lijst om te kunnen navigeren naar ‘Home’ en ‘Contact’. Je hoeft deze pagina’s niet te voorzien. Op een pc-scherm worden de navigatie-items naast elkaar weergegeven, op mobiele apparaten onder elkaar.
+Voeg vervolgens een nav-element toe aan de header met daarin een lijst om te kunnen navigeren naar ‘Home’ en ‘Contact’. Je hoeft deze pagina’s niet te voorzien. Op een pc-scherm worden de navigatie-items naast elkaar weergegeven, op mobiele apparaten onder elkaar.
 ![Opdracht 9a](../master/screenshots/7.bmp)
 ![Opdracht 9b](../master/screenshots/8.bmp)
   
