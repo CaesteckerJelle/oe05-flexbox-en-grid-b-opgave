@@ -16,7 +16,7 @@ Nuttige links:
   - Probeer Emmet eens uit: tik het volgende in `p>lorem2000` en druk op `TAB`.
 
 - Deze elementen worden op een grid geplaatst:
-  - Helemaal bovenaan de pagina is er een schermvullende balk voor de header, helemaal onderaan een schemvullende balk voor de footer.
+  - Helemaal bovenaan de pagina is er een schermvullende balk voor de header, helemaal onderaan een schermvullende balk voor de footer.
   - In het midden van de grid staat de main, die links en rechts ervan plaats maakt voor aside informatie (bv. advertenties).
   - Gebruik grid-template-areas om de elementen te positioneren binnen het grid.
   - Geef elke area z'n eigen kleur (om je te helpen bij het visualiseren).
@@ -53,6 +53,7 @@ Bij printweergave zie je dit:
 ## Opdracht 6
 We willen ook een help-knop voorzien in de rechter onderhoek. Deze knop neemt de vorm aan van een div-element! Deze knop is permanent zichtbaar halverwege de pagina (tegen de scrollbalk). Ook wanneer je scrollt is de knop steeds zichbaar op dezelfde plaats. Maak gebruik van passende positionering om deze knop te voorzien.
 Zorg er ook voor dat wanneer een gebruiker over het element beweegt er iets aan de opmaak van het element verandert. Zo weet de gebruiker dat hij iets kan doen.
+
 ![Opdracht 6](../master/screenshots/6.bmp)
 
 FOTO
